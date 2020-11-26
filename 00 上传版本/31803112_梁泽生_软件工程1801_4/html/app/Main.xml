@@ -1,0 +1,84 @@
+﻿<project version="2.9" name="test24(1)" ID="3996F992-549E-4505-A95A-C366DBAAAB1D">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtWeb" pageSize="(1100,1120)" backgroundColor="4294967295" fontSize="14" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="首页" ID="DE7059E3-6D69-4892-990B-4EE4BC9705D2" expanded="True" code="kg6l2xGmrh" thumbCode="kg6l2xGmrh" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="116F06C5E8052189C178A2E5B06FC10B.svg"/>
+        <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+      </images>
+    </page>
+    <page name="买家购买商品信息界面" ID="1F3D58DC-0CE8-44FE-9614-52018A21156E" expanded="True" code="ojgNCEZu4h" thumbCode="ojgNCEZu4h" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="卖家填入商品信息界面" ID="67261209-D3CC-40CA-9C85-5E38FCAE98E2" expanded="True" code="frijqAcPuH" thumbCode="frijqAcPuH" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="发布求购" ID="EDE0E2B2-27B4-41CE-A002-F1851339F69C" expanded="True" code="NjouRUMJZH" thumbCode="NjouRUMJZH" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="搜索页" ID="0EAA23D3-AEFA-49E0-9C16-A48CE215E979" expanded="True" code="kUB5irjMXL" thumbCode="6hOGD48WXO" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="3A3CD3DB2FAE85FFEF2A8996E634645D.svg"/>
+        <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+        <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+        <image key="116F06C5E8052189C178A2E5B06FC10B.svg"/>
+      </images>
+    </page>
+    <page name="注册" ID="9DFBD46C-87FB-48FC-9536-3DCA5C3F76CC" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="邮箱注册" ID="F9F61EF6-8EDE-4B08-A471-F09997320174" expanded="True" code="xsUkNtb5X9" thumbCode="49ozsnAVt5" status="psWhite" isfolder="False" isshownode="True">
+        <page name="手机注册" ID="12E71447-7923-45BB-8B9E-8750F88695AE" expanded="True" code="AMmBsuUMUT" thumbCode="v7gTDj9cmW" status="psWhite" isfolder="False" isshownode="True"/>
+      </page>
+    </page>
+    <page name="登录" ID="953FAAA4-10EA-4859-9E6F-30A8128C1A72" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="登录" ID="11880DA6-F11E-4B12-A7C4-CC5810EE0894" expanded="False" code="XJAt1DEZC8" thumbCode="XJAt1DEZC8" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="短息登录" ID="3F9238B6-9656-4BB7-8BD5-419EE3370727" expanded="False" code="DCsSTM2GnA" thumbCode="DCsSTM2GnA" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="邮箱登录" ID="9DCC9335-8024-4385-B46E-1195C6B44A4A" expanded="True" code="mBFpGuXCPB" thumbCode="mBFpGuXCPB" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+    <page name="个人中心" ID="C97AD319-5911-4503-8FAC-6789AE1C6574" expanded="False" status="psGreen" isfolder="True" isshownode="True">
+      <page name="个人中心——我的发布" ID="A1C944E3-E884-459E-BFBF-F1FF4C9C63F1" expanded="True" code="F3gcWTkeL6" thumbCode="spk3wzfeiW" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="个人中心——我的求购" ID="1A1718FD-AB9C-4470-839F-9A7C6778F166" expanded="True" code="cbdW5QI4qv" thumbCode="h6r3Ojkr22" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="个人中心——我的收藏" ID="EF1C3BF4-9892-4D78-A9BF-9ACC0EE7501B" expanded="True" code="mQyFQqo4ik" thumbCode="ltZU9sgypA" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="个人中心——我的订单" ID="61CCA56E-892B-439F-8476-01629D18DD8A" expanded="True" code="uKWdKZ3a3a" thumbCode="FccXdIhNJa" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="个人中心——个人资料" ID="ECB97A6A-B61C-4C88-9A05-512D2804A00C" expanded="False" code="2ICvMcWsiH" thumbCode="2ICvMcWsiH" status="psWhite" isfolder="False" isshownode="True"/>
+      <page name="个人中心——密码设置" ID="037C0DB2-6969-4B05-99F5-B931CE2DA6E8" expanded="False" code="pJtUsgQDo1" thumbCode="pJtUsgQDo1" status="psWhite" isfolder="False" isshownode="True"/>
+    </page>
+  </pages>
+  <trash>
+    <page name="页面" ID="07B42B3B-B0A8-4536-870C-FB8212660C80" expanded="True" code="p9lxzX4VZ3" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="卖家填入商品信息界面" ID="36577B8C-654F-4043-98DE-9500C92FB815" expanded="True" code="oi4tpvIx4N" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的收藏" ID="97046494-28D9-4BED-846F-43EFC77D0519" expanded="False" code="tKxqMp62LT" thumbCode="rIxqRCwQVv" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心1" ID="611C9E5E-9C13-4792-B7D4-CBFC403A461E" expanded="False" code="bAt8NWaAns" thumbCode="BjNr8oh7g2" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——个人资料" ID="570C3489-0790-481B-809A-D25FA13123A3" expanded="True" code="xLr2HTQsVZ" thumbCode="EINvwgaMNH" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="页面" ID="01874F52-4FEF-49E6-9F0D-71AB260E799E" expanded="False" code="izsbZINxcM" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="忘记密码" ID="116F178E-224E-4FC8-856F-0360D4F11061" expanded="False" code="2KlIepKj13" thumbCode="IpUSw9geGF" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="登录1" ID="C5823C02-D6ED-4057-B91A-17475A8A645C" expanded="True" code="DT2UFOqVR9" thumbCode="" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="短息登录" ID="30A3C84D-CBCB-4ADE-8861-A9D10574EFB9" expanded="False" code="zXkKWxMqOX" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="邮箱登录" ID="083B69B4-776E-40B7-B889-CACF4608D0AE" expanded="False" code="m6qS7H5TgD" thumbCode="UQrsmlnuaV" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="邮箱注册" ID="32F76153-D599-45DD-9038-6484D80B4F9C" expanded="False" code="f7HlHfz3VG" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="手机注册" ID="5741C37D-B92F-45D4-84CA-77FF5F08F3F0" expanded="False" code="aRt5v25dqo" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="买家购买商品信息界面1" ID="EDE4971C-C41D-4389-A355-2BF124E964B9" expanded="True" code="IslUR7dzwM" thumbCode="vIhRdaqMe4" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="卖家填入商品信息界面1" ID="749566A2-7DA7-43B5-AAF1-7549BBB40333" expanded="True" code="KdUihvqsai" thumbCode="RwhMbQOJ9H" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心1" ID="2FCDB6BD-886C-440D-9DAE-EF377CD031B7" expanded="True" code="lbHkfg5U9x" thumbCode="z1dKIk4JOz" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的发布" ID="006453ED-C6C8-434A-B446-50A1C15E1750" expanded="False" code="GVyzf1X1M4" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的求购" ID="0E368254-25C6-4B67-9F05-228B25D39D49" expanded="False" code="bhXj8cEwDD" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的收藏" ID="1222DDE7-92FD-47E1-8939-732A6F971308" expanded="True" code="OO7pQXDT4X" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的订单" ID="B4754872-3CAA-4195-B916-CF3E086CEC49" expanded="False" code="5gsX1OSmrN" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——个人资料" ID="ADDED5CA-853B-4E9E-803D-7446BC31EC44" expanded="False" code="oIqkJhFEVq" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——密码设置" ID="A047C30C-71E2-4482-9D4B-F5E3D1638729" expanded="False" code="F3vpelFZdu" thumbCode="" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心" ID="60A34D4C-12B3-4E9D-B7D6-317AE17AA2CC" expanded="False" code="gedztocvKo" thumbCode="2FyUFtn2qx" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的发布" ID="D8ADBAB7-0BFD-4BDF-8741-BBE7DE3BBBC3" expanded="True" code="1GQtAjknse" thumbCode="YX2rDGhl4d" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的求购" ID="DC22B72F-E3D0-4D6B-AEAF-1DCA0C476E80" expanded="True" code="23CScJeS6W" thumbCode="MnZNmKbIeK" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的收藏" ID="04648AE0-E65A-4F09-9085-CF61D9A31B69" expanded="True" code="vea6yO136j" thumbCode="NulKLK1hBJ" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——我的订单" ID="F19F3E71-1C91-4E73-A349-7071E6E5F207" expanded="True" code="KAbca98Cpw" thumbCode="QDIZfHBOV5" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——个人资料" ID="605A1EED-08A8-4666-8B90-2D0CD41746F1" expanded="True" code="p4C7rwcm6a" thumbCode="KYLxFveAjn" status="psWhite" isfolder="False" isshownode="True"/>
+    <page name="个人中心——密码设置" ID="D934B2EA-7DCF-4571-A66D-40501A0FD371" expanded="True" code="6ARGQduhoZ" thumbCode="SQ4R5cyTCS" status="psWhite" isfolder="False" isshownode="True"/>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="27BF6DD5D083782A1CB633DA66BC8750.svg"/>
+    <image key="116F06C5E8052189C178A2E5B06FC10B.svg"/>
+    <image key="C2DA32AD73BD4A46DCAE15462637BA6C.svg"/>
+    <image key="3A3CD3DB2FAE85FFEF2A8996E634645D.svg"/>
+    <image key="2D780716D3D89B2EFB0155599BA0A89F.svg"/>
+  </images>
+</project>
